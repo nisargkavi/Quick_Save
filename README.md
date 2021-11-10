@@ -1,7 +1,7 @@
 # Quick_Save
 A Chrome Extension to Quickly save text notes &amp; current tab URL
 
-<img src="https://ibb.co/7JqczTq" alt="drchamp1" border="0"></a>
+<img src="https://i.ibb.co/WWL93dL/Screenshot-21.png" alt="drchamp1" border="0"></a>
 
 
 > Save Text : Type or Paste something in the input field and hit the save button
