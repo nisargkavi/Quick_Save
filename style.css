@@ -1,0 +1,148 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgba(189, 192, 196, 0.973);
+  padding: 8px;
+  min-width: 300px;
+  min-height: 400px;
+  overflow: scroll;
+}
+
+#alert {
+  display: none;
+  color: red;
+  background: black;
+  width: fit-content;
+  font-size: 11px;
+  border-radius: 3.2px;
+  padding: 4.8px 8px;
+  margin-bottom: 8px;
+}
+
+.input {
+  margin-bottom: 8px;
+}
+
+#inputVal{
+  border-radius: 20px;
+}
+
+.input input {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  outline: none;
+  height: 1.7rem;
+  margin-bottom: 8px;
+  padding-left: 8px;
+  border: 1.5px solid #000000;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading{
+  text-align: center;
+  padding-bottom: 8px;
+}
+
+button {
+  height: 26px;
+  padding: 0px 12.8px;
+  border: none;
+  width: 100%;
+  margin: 0 4.8px;
+  transition: transform 200ms ease-in-out;
+  font-weight: 500;
+  border-radius: 20px;
+}
+
+footer{
+  width: 100%;
+  /* background-color: #0026ffd8; */
+  color: rgb(0, 0, 0);
+  margin-top: 30px;
+  text-align: center;
+  padding: 10px;
+  padding-top: 200px;
+}
+
+ul {
+  margin-top: 16px;
+  width: 100%;
+  list-style: none;
+  padding: 3.2px;
+}
+
+ul li {
+  display: block;
+  font-size: 14.4px;
+  padding: 8px;
+  color: white;
+  background-color: #8738ff;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: 3.2px;
+  text-align: left;
+  width: 300px;
+  height: auto;
+  overflow-wrap: break-word;
+}
+
+button:hover {
+  transform: scale(0.9);
+}
+
+#saveTxt {
+  background-color: #000000;
+  color: white;
+}
+
+#saveTab {
+  background-color: white;
+  border: 2px solid #06af01ce;
+  color: #000;
+}
+
+#saveSlct {
+  background-color: #fff;
+  border: 2px solid #8738ff;
+  color: #000;
+  margin-top: 8px;
+  width: 100%;
+  transform: none;
+  transition: all 200ms ease-in-out;
+}
+
+#saveSlct:hover {
+  background-color: #dcc5ff;
+  color: #8738ff;
+}
+
+#deleteAll {
+  background-color: crimson;
+  font-size: 13.2px;
+  color: white;
+}
+
+a {
+  color: green;
+}
+
+a:visited {
+  color: white;
+}
