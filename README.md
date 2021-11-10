@@ -21,9 +21,3 @@ A Chrome Extension to Quickly save text notes &amp; current tab URL
 3. Click on the load unpacked
 
 4. Select the folder and add it
-
-
-
-### DrChamp1 
-
-[Instagram](https://www.instagram.com/a_mythical_kid) || [Youtube](https://www.youtube.com/technicalnisarg)
