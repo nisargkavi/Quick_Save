@@ -14,7 +14,7 @@ A Chrome Extension to Quickly save text notes &amp; current tab URL
 
 
 
-### How to Install -
+### Installation -
 
 1. Download code and unzip it
 
