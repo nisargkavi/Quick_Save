@@ -5,8 +5,11 @@ A Chrome Extension to Quickly save text notes &amp; current tab URL
 
 
 > Save Text : Type or Paste text in the input field and save it for later!
+> 
 > Save Tab  : Click on The Save Tab to save the current tab url as link!
+> 
 > Delete All : Double Click Delete button to clear all your previous saved data!
+> 
 
 
 ### How to Install
